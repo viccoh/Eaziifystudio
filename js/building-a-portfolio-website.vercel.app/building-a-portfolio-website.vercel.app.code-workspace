@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../_DataURI"
+		},
+		{
+			"path": "../api.fontshare.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "building-a-portfolio-website.vercel.app"
+	}
+}
